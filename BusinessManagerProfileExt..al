@@ -5,5 +5,5 @@ profileextension SampleProfileExt extends "BUSINESS MANAGER"
     Customizations = CustomerCardCustomization;
     RoleCenter = 9010;
     Enabled = true;
-    Promoted = false;
+    Promoted = true;
 }
