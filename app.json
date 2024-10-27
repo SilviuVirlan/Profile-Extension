@@ -2,7 +2,7 @@
   "id": "0c5ecdc7-e4ca-4688-8c08-d638af341079",
   "name": "Profile Extension",
   "publisher": "Silviu Virlan",
-  "version": "1.0.0.5",
+  "version": "1.0.0.10",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -25,7 +25,9 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "source": {"repositoryUrl": "https://github.com/SilviuVirlan/Profile-Extension.git","commit": "134acd5acde2201b69c66789005c4c1c906e0b1f"},
+  "source": {
+    "repositoryUrl": "https://github.com/SilviuVirlan/Profile-Extension.git",
+    "commit": "765520b6c64bf3e59bad9f289fb67dde5279d590"},
   "runtime": "14.0",
   "features": [
     "NoImplicitWith"
