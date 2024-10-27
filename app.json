@@ -25,7 +25,7 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "source": {"repositoryUrl": "https://github.com/SilviuVirlan/Profile-Extension.git","commit": "134acd5"},
+  "source": {"repositoryUrl": "https://github.com/SilviuVirlan/Profile-Extension.git","commit": "134acd5acde2201b69c66789005c4c1c906e0b1f"},
   "runtime": "14.0",
   "features": [
     "NoImplicitWith"
