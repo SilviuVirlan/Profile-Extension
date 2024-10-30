@@ -27,7 +27,7 @@
   },
   "source": {
     "repositoryUrl": "https://github.com/SilviuVirlan/Profile-Extension.git",
-    "commit": "765520b6c64bf3e59bad9f289fb67dde5279d590"},
+    "commit": "fb9fca1dd33a5bac9571a05a26274a1408944f6b"},
   "runtime": "14.0",
   "features": [
     "NoImplicitWith"
